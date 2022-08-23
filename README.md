@@ -1,3 +1,5 @@
+# Note: fpm package: removed test folders
+
 # symlib
 Symmetry-related routines for cluster expansion and other codes that rely on symmetries of lattices
 and crystals. This code was started by GLWH in 1997 with help from Harold Stokes (Mr. Isotropy, see
